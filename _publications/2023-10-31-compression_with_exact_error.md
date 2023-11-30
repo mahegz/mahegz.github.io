@@ -8,8 +8,3 @@ venue: '2022 IEEE Information Theory Workshop (ITW)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'M. Hegazy, R. Leluc, C. T. Li, A. Dieuleveut, "Compression with Exact Error Distribution for Federated Learning", arXiv preprint arXiv:2310.20682, 2023'
 ---
-<!-- This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
