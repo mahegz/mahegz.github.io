@@ -8,11 +8,10 @@ redirect_from:
   - /markdown.html
 ---
 
+**This website is still under construction**
 
-## A short bio
+I am an M2 PhD-track student at IP-Paris, working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). PhD-track is an integrated program of a 2 years master's followed by a PhD. I currently am in my second year of master's and planning to conitnue my PhD with Aymeric.
 
-
-## A longer bio
 <!-- 
 ## Locations of key files/directories
 

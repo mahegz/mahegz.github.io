@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Information Engineering, CUHK , 2012
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
-* Ph.D-Track Data and AI, IP-Paris, 2022-2027 (expected)
+* B.S. in [Mathematics and Information Engineering(MIE)](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/), CUHK, 2018-2022
+  * Graduated from the ELITE stream with First Honours 
+* [PhD-Track](https://www.ip-paris.fr/en/education/phd-track-applications-open-october-5th-january-12th-2024) in Data and AI (Mathematics), IP-Paris
+  * M1 in Data and AI, 2023
+  * M2 Mathématiques, Vision, Apprentissage (MVA)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Student Research (2023-Ongoing)
+
+* Summer 2021: Research Intern, Information Engineering Dept, CUHK
+Working with Prof. Cheuk Ting Li, this project aims to develop channel synthesis schemes for additive noise channels under finite blocklength. The current focus is analyzing the relationship between the achievable bit rate and the additive noise distribution. A paper has been published at the Information Theory Workshop Conference.
+
+* Summer 2020: Research Intern, [MLO](https://www.epfl.ch/labs/mlo/), EPFL 
+
+Under the supervision of Prof. Martin Jaggi, Dr Mary-Anne Hartley, and Dr Sai Karimireddy, I participated in machine learning research endeavours to explore methods of personalized federated learning. This project leveraged a multi-task learning viewpoint of constructing a similarity matrix between clients which is then used to infer clients' relations for gradient sharing. 
   
 <!-- Skills
 ======
