@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in [Mathematics and Information Engineering(MIE)](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/), CUHK, 2018-2022
+* B.S. in [Mathematics and Information Engineering(MIE)](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/), CUHK, 2018-2022 
   * Graduated from the ELITE stream with First Honours 
 * [PhD-Track](https://www.ip-paris.fr/en/education/phd-track-applications-open-october-5th-january-12th-2024) in Data and AI (Mathematics), IP-Paris
   * M1 in Data and AI, 2023
@@ -24,6 +24,7 @@ Work experience
 * Student Research (2023-Ongoing)
 
 * Summer 2021: Research Intern, Information Engineering Dept, CUHK
+
 Working with Prof. Cheuk Ting Li, this project aims to develop channel synthesis schemes for additive noise channels under finite blocklength. The current focus is analyzing the relationship between the achievable bit rate and the additive noise distribution. A paper has been published at the Information Theory Workshop Conference.
 
 * Summer 2020: Research Intern, [MLO](https://www.epfl.ch/labs/mlo/), EPFL 
