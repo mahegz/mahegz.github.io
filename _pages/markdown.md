@@ -8,9 +8,11 @@ redirect_from:
   - /markdown.html
 ---
 
-**This website is still under construction**
+I am an M2 PhD-track student at IP-Paris, working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). PhD-track is an integrated program of a 2 years master's followed by a PhD. I am currently in the second year of my master's and I am planning to conitnue with my Phd next year.
 
-I am an M2 PhD-track student at IP-Paris, working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). PhD-track is an integrated program of a 2 years master's followed by a PhD. I currently am in my second year of master's and planning to conitnue my PhD with Aymeric.
+I am mainly ineterested in federetard/decentralized optimization and the constraints that arise from these settings such as privacy, robustness, and communication efficiency. I am also very interestd in exploring topics related to the interaction of both information theory and game theory with learning problems. 
+
+Prior to coming to France, I graduated with first class honours from the ELITE stream of the Mathematics and Information Engineering program at CUHK. I had one summer internship with Prof. Cheuck Ting Li, and another one at MLO, EPFL.  
 
 <!-- 
 ## Locations of key files/directories
