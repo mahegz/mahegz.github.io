@@ -21,9 +21,9 @@ Education
 Work experience
 ======
 
-* Student Research (2023-Ongoing)
+*(2023-Ongoing) Student Research, CMAP, Polytechnique
 
- Under the supervision of Prof. Aymeric Dieuleveut at CMAP, Polytechnique. I am working on research projects related to federated optimization. In particular, this work tackles methods of leverag new compression schemes to achieve differential privacy, Langevin dynamics, and smoothing. In addition, I am also working on new algorithms extending the gradient-based aggregation schemes used in federated optimization to optimization problems that are no inherentely gradient-based such as EM algorithms. 
+ Under the supervision of Prof. Aymeric Dieuleveut, I am working on research projects related to federated optimization. In particular, this work tackles methods of leverag new compression schemes to achieve differential privacy, Langevin dynamics, and smoothing. In addition, I am also working on new algorithms extending the gradient-based aggregation schemes used in federated optimization to optimization problems that are no inherentely gradient-based such as EM algorithms. 
 
 * Summer 2021: Research Intern, Information Engineering Dept, CUHK
 
