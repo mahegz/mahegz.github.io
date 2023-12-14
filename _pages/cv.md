@@ -23,9 +23,11 @@ Work experience
 
 * Student Research (2023-Ongoing)
 
+ Under the supervision of Prof. Aymeric Dieuleveut at CMAP, Polytechnique. I am working on research projects related to federated optimization. In particular, this work tackles methods of leverag new compression schemes to achieve differential privacy, Langevin dynamics, and smoothing. In addition, I am also working on new algorithms extending the gradient-based aggregation schemes used in federated optimization to optimization problems that are no inherentely gradient-based such as EM algorithms. 
+
 * Summer 2021: Research Intern, Information Engineering Dept, CUHK
 
-Working with Prof. Cheuk Ting Li, this project aims to develop channel synthesis schemes for additive noise channels under finite blocklength. The current focus is analyzing the relationship between the achievable bit rate and the additive noise distribution. A paper has been published at the Information Theory Workshop Conference.
+Working with Prof. Cheuk Ting Li, this project aimed to develop channel synthesis schemes for additive noise channels under finite blocklength. The current focus is analyzing the relationship between the achievable bit rate and the additive noise distribution. A paper has been published at the Information Theory Workshop Conference.
 
 * Summer 2020: Research Intern, [MLO](https://www.epfl.ch/labs/mlo/), EPFL 
 
