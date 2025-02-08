@@ -8,13 +8,12 @@ redirect_from:
   - /markdown.html
 ---
 
-I am an M2 PhD-track student at IP-Paris, working with [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/). PhD-track is an integrated program of a 2 years master’s followed by a PhD. I am currently in the second year of my master’s and planning to continue with my PhD next year.
+I am a first-year PhD student. I am very fortunate to be advised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) at École polytechnique and [Micheal Jordan](http://www.cs.berkeley.edu/~jordan) at Sierra, Inria Paris. 
 
 
-I am mainly interested in federated/decentralized optimization and the constraints that arise from these settings such as privacy, robustness, and communication efficiency. I am also very interested in exploring topics related to the interaction of both information theory and game theory with learning problems.
+Currently, I work on trustworthy machine learning, mostly uncertainity quantification, as in calibration and conformal prediction, and sometimes privacy, as in differntial privacy. I also like to explore topics related to the interaction of both information theory and game theory with learning problems. 
 
-
-Before coming to France, I graduated with first-class honours from the ELITE stream of the Mathematics and Information Engineering program at CUHK. I had one summer internship with Prof. Cheuck Ting Li, and another one at MLO, EPFL.
+Before starting my PhD, I was in the MVA program. Even before that, I graduated with first-class honours from the ELITE stream of the Mathematics and Information Engineering program at CUHK. I had one summer internship with Prof. Cheuck Ting Li, and another one at MLO, EPFL.
 
 
 <!-- 
