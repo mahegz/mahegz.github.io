@@ -7,5 +7,5 @@ main:
   # - title: "CV"
   #   url: /cv/
     
-  - title: "Home"
-    url: /markdown/
+  # - title: "Home"
+  #   url: /markdown/
