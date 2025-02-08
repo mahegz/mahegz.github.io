@@ -4,8 +4,8 @@ main:
     url: /publications/
 
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   - title: "Home"
     url: /markdown/
