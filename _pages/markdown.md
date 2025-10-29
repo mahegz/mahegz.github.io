@@ -8,7 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I am a first-year PhD student. I am very fortunate to be advised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) at École polytechnique and [Micheal Jordan](http://www.cs.berkeley.edu/~jordan) at Sierra, Inria Paris. 
+I am a first-year PhD student. I am very fortunate to be advised by [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/) at École polytechnique and [Michael Jordan](http://www.cs.berkeley.edu/~jordan) at Sierra, Inria Paris.
 
 
 Currently, I work on trustworthy machine learning, mostly uncertainity quantification, as in calibration and conformal prediction, and sometimes privacy, as in differntial privacy. I also like to explore topics related to the interaction of both information theory and game theory with learning problems. 

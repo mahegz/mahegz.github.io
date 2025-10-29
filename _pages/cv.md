@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Download
+======
+* [Download my CV (PDF)]({{ '/files/Mahmoud_Hegazy_CV.pdf' | relative_url }})
+
 Education
 ======
 * B.S. in [Mathematics and Information Engineering(MIE)](https://www.ie.cuhk.edu.hk/programmes/bsc-in-mieg/), CUHK, 2018-2022 
